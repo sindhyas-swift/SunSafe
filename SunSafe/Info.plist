@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Need access to Users Location </string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>we need permission to acess location when using the app</string>
 	<key>UIApplicationSceneManifest</key>
